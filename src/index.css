@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    overflow-y: hidden;
+}
+.Bt{
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    width: 4rem;
+    height: 4rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.rule{
+    width: 60%;
+    margin:7px 0 0 300px ;
+
+}
